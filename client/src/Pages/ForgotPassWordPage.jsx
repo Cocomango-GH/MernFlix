@@ -1,7 +1,7 @@
 import React from 'react'
 
-export default function ForgotPassWordPage() {
+export default function ForgotPasswordPage() {
   return (
-    <div>ForgotPassWordPage</div>
+    <div>ForgotPasswordPage</div>
   )
 }
